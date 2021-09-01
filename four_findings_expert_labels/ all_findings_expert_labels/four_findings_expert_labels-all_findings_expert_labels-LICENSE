@@ -1,0 +1,27 @@
+These labels are intended for research and educational purposes only.
+
+When using these labels, please include the following citation:
+
+Zaid Nabulsi, Andrew Sellergren, Shahar Jamshy, Charles Lau, Eddie Santos,
+Atilla P. Kiraly, Wenxing Ye, Jie Yang, Sahar Kazemzadeh, Jin Yu,
+Raju Kalidindi, Mozziyar Etemadi, Florencia Garcia Vicente, David Melnick,
+Greg S. Corrado, Lily Peng, Krish Eswaran, Daniel Tse, Neeral Beladia,
+Yun Liu, Po-Hsuan Cameron Chen, Shravya Shetty, Deep Learning for
+Distinguishing Normal versus Abnormal Chest Radiographs and Generalization
+to Two Unseen Diseases Tuberculosis and COVID-19, Nature Scientific Reports,
+2021.
+
+There are no restrictions on the use of the NIH chest x-ray images. However, the
+dataset has the following attribution requirements:
+
+  * Provide a link to the NIH download site:
+    https://nihcc.app.box.com/v/ChestXray-NIHCC
+
+  * Include a citation to the CVPR 2017 paper:
+
+    Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald
+    Summers, ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks
+    on Weakly-Supervised Classification and Localization of Common Thorax
+    Diseases, IEEE CVPR, pp. 3462-3471, 2017.
+
+  * Acknowledge that the NIH Clinical Center is the data provider.
